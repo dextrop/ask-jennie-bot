@@ -1,5 +1,5 @@
 # Ask Jennie Python Package
-The package is a part of ASK Jennie Complete Product.
+The package targets to automate development task using single line command, The package include task with UI gallery to automate development of small to medium project. The package is a part of ASK Jennie Complete Product.
 
 ## Task List
 
